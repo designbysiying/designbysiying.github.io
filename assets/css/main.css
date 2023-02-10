@@ -71,8 +71,8 @@
 
 @media (max-width: 736px) {
   .icon img {
-    width: 4.75rem;
-	height: 4.75rem;
+		width: 4.75rem;
+		height: 4.75rem;
   }
 }
 
@@ -104,6 +104,11 @@
 	.image.main.picS img {
     width: 100%;
   }
+}
+
+/* centering text like captions and buttons on each of the project pages */
+.center {
+	text-align: center;
 }
 
 /* ###################### HTML5 DIMENSION TEMPLATE CODE ################################# */
